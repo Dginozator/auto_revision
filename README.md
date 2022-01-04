@@ -9,8 +9,9 @@ Testing with next environment:
 - opencv 4.0.1
 
 ## Steps  
-1. Send files from gog_bot directory `src` to script directory `src`
-2. Launch script from directory `revision`:
+1. git clone `git clone https://github.com/dginozator/gog_bot`
+2. Send files from gog_bot directory `src` to script directory `src`
+3. Launch script from directory `revision`:
 
 ```
 python t.py
