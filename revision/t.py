@@ -9,7 +9,7 @@ import glob
 import os
 from datetime import datetime as DT, timedelta
 
-pytesseract.pytesseract.tesseract_cmd = 'C:\\e_programs\\tesseract\\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = 'D:\\e_programs\\tesseract\\tesseract.exe'
 
 patterns = [
 	'patterns\\food_1k.png',
