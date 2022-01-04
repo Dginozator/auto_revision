@@ -9,7 +9,7 @@ Testing with next environment:
 - opencv 4.0.1
 
 ## Steps  
-1. git clone `git clone https://github.com/dginozator/gog_bot`
+1. git clone `git clone https://github.com/dginozator/auto_revision`
 2. Send files from gog_bot directory `src` to script directory `src`
 3. Launch script from directory `revision`:
 
