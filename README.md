@@ -11,7 +11,9 @@ Testing with next environment:
 ## Steps  
 1. git clone `git clone https://github.com/dginozator/auto_revision`
 2. Send files from gog_bot directory `src` to script directory `src`
-3. Launch script from directory `revision`:
+3. Make sure that there are only images and only new ones in the folder.
+4. Check out tesseract path on your PC and copy it's path to `t.py` file.
+5. Launch script from directory `revision`:
 
 ```
 python t.py
